@@ -1,5 +1,5 @@
 # 6.84 for Modern Players  
-The most important thing to know about classic Dota is that it's more similar to modern Dota than it is different. Most of the heroes are about the same, most of the items are about the same, and most of the concepts are about the same as they are in modern Dota. This document outlines all of the major differences between the games, but don't let it intimidate you. There will be a learning curve, but if you've already learned one game, you're already most of the way to learning the other.  
+The most important thing to know about classic Dota is that it's more similar to modern Dota than it is different. Most of the heroes are about the same, most of the items are about the same, and most of the concepts are about the same as they are in modern Dota. This document outlines all of the major differences between the games, but don't let it intimidate you. There will be a learning curve, but if you've learned one game, you're already most of the way to learning the other.  
 
 ## The Big Stuff  
 
@@ -53,8 +53,8 @@ The most important thing to know about classic Dota is that it's more similar to
 #### Levels
 * The maximum level is 25.
 * **Talents do not exist. When you level up, you can choose to upgrade an ability, or gain 2 of all stats** (strength, agility, and intelligence) **instead.** Usually, if you have an ability to level up, it's optimal to upgrade it, but it's occasionally good to upgrade stats before having your abilities maxed out.
-#### Wards
 
+#### Wards
 * **Observer wards cost gold** and are mostly purchased by the hard support, with some occasional help from the position 4.
 * Sentry wards do not have a stock limit and must be purchased two at a time.
 
