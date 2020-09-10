@@ -9,7 +9,10 @@ The most important thing to know about classic Dota is that it's more similar to
 * **Outposts**
 * **Scan**  
 * **Backpack slots and the teleport scroll slot** (inventory slot management is very important)
-* Status Resistance and Mana Loss Reduction
+* **Status Resistance, Mana Loss Reduction and Spell Amplification** (Veil of Discord gives Magic Damage Amplification)
+* Cast range cannot be increased
+* Attack range cannot be increased (excluding Sniper and Templar Assassin's abilities)
+* There are no tower range indicators. There are no neutral camp spawn box indicators or stack/pull timers.
 
 ### The following heroes **do not exist** in 6.84:
 * Arc Warden
@@ -52,7 +55,7 @@ The most important thing to know about classic Dota is that it's more similar to
 
 #### Levels
 * The maximum level is 25.
-* **Talents do not exist. When you level up, you can choose to upgrade an ability, or gain 2 of all stats** (strength, agility, and intelligence) **instead.** Usually, if you have an ability to level up, it's optimal to upgrade it, but it's occasionally good to upgrade stats before having your abilities maxed out.
+* **Talents do not exist. When you level up, you can choose to upgrade an ability, or gain 2 of all attributes** (strength, agility, and intelligence) **instead.** Usually, if you have an ability to level up, it's optimal to upgrade it, but it's occasionally good to upgrade stats before having your abilities maxed out.
 
 #### Wards
 * **Observer wards cost gold** and are mostly purchased by the hard support, with some occasional help from the position 4.
@@ -77,7 +80,11 @@ The most important thing to know about classic Dota is that it's more similar to
 * At the start of the game (0:00) two bounty runes spawn instead of a bounty and power rune. **These initial bounty runes are twice as powerful** and very important.
 
 #### The Map
-* the map is different and stuff 
+The map is significantly different in classic Dota. There are fewer neutral camps, and they're in different spots. The paths throughout the map are more restrictive, forcing you to plan routes more carefully. The map is less symmetrical, creating various advantages and disadvantages to each side. Here are some of the side differences:
+* It's easier for mid to farm neutrals on radiant due to camp positioning.
+* Radiant offlane can side pull dire's hard camp after breaking a tree. Dire offlane cannot do the same to radiant.
+* Dire can use this same hard camp to pull directly if they push the enemy offlaner back near their tower. Radiant cannot do this, but chain pulling is easier on radiant (though it requires a broken tree).
+* Dire has a Roshan advantage due to the position of the pit.
 
 ## The Feel of the Game
 ### Tempo is Really Important
@@ -91,7 +98,6 @@ Matches of classic Dota tend to be a bit longer than modern Dota. The game is, i
 
 ### Everybody's Squishy
 In 6.84, you cannot get away with the sort of stuff you can get away with in modern Dota. If you walk out of position and your opponents don't suck, you *will* die. Spells in general deal a ridiculous amount of damage in the early game (because they don't scale), and in the late game, carries are seriously scary. This is one of the first things you will notice when learning classic Dota. Every hero can, and will, get nuked into oblivion, especially in the early game. Heroes simply do not have as much survivability as they do in modern Dota and you have to be a lot more careful with your positioning. However, this does mean that your opponents will generally be easier to kill than they are in modern Dota.
-
 
 ### Strengths and Weaknesses
 It seems increasingly true in modern Dota that pretty much every hero is at least okay at doing most things. Valve uses a variety of mechanisms to bandage the weaknesses of heroes. There are talents that bandage or even straight up delete massive vulnerabilities, (e.g. Wraith King's No Reincarnation Manacost), base kit reworks (e.g. the jump forward that was added to Ursa's slow), and new aghs effects that solve a hero's problems (e.g. Sven's aghs). Those last two make those two hard carries, whose biggest weakness has always been kiting, really hard to kite. Weaknesses are being increasingly removed from the game. When you take a roster of heroes that each has their own unique set of strengths and weaknesses and then delete the weaknesses, you're left with only strengths. You've removed half of the richness. Each hero is that much more similar to the others. It's like cooking a nice dinner of steak, corn, and potatoes, and then throwing it into a blender. Something magical is lost. 
