@@ -62,8 +62,8 @@ The most important thing to know about classic Dota is that it's more similar to
 * Sentry wards do not have a stock limit and must be purchased two at a time.
 
 #### Couriers
-* **The courier must be purchased** at the start of the game. This is typically done by the hard support. 
 * While more can technically be purchased, **each team typically only has one courier to share.** It usually gets monopolized by the mid laner for the first few minutes of the game. This makes starting items very important, especially in the side lanes.
+* **The courier must be purchased** at the start of the game. This is typically done by the hard support. 
 * When first purchased, the courier walks, and is quite slow. **3 minutes into the game, the flying courier is unlocked in the shop.** Usually the hard support buys it unless the position 4 is having a really good game. The flying courier is much faster than the standard courier and has a speed boost ability.
 * In lieu of individual couriers, **there is a side shop at both of the side lanes with a limited selection of items.** Be warned that it can be hard to reach if your lane is going poorly. 
 
@@ -79,8 +79,11 @@ The most important thing to know about classic Dota is that it's more similar to
 * **Every two minutes,** including the 2 minute mark, **two runes spawn** - one at the left river spot, one at the right river spot. **One will be a bounty, and one will be a random power rune** (which is which is random).
 * At the start of the game (0:00) two bounty runes spawn instead of a bounty and power rune. **These initial bounty runes are twice as powerful** and very important.
 
+#### Consumables
+Salves, clarities, and bottle charges are cancelled by creep damage, including neutrals. This means that clarities can't be used to infinitely sustain mana while using spells to clear the jungle. This difference is very noticable on intelligence cores. It's also important to make sure that creeps won't aggro you before you use regen in lane.
+
 #### The Map
-The map is significantly different in classic Dota. There are fewer neutral camps, and they're in different spots. The paths throughout the map are more restrictive, forcing you to plan routes more carefully. The map is less symmetrical, creating various advantages and disadvantages to each side. Here are some of the side differences:
+The map is significantly different in classic Dota. There are fewer neutral camps, and they're in different spots. The paths throughout the map are more restrictive, which forces players to plan routes more carefully. The map is less symmetrical, creating various advantages and disadvantages to each side. Here are some of the side differences:
 * It's easier for mid to farm neutrals on radiant due to camp positioning.
 * Radiant offlane can side pull dire's hard camp after breaking a tree. Dire offlane cannot do the same to radiant.
 * Dire can use this same hard camp to pull directly if they push the enemy offlaner back near their tower. Radiant cannot do this, but chain pulling is easier on radiant (though it requires a broken tree).
