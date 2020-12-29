@@ -106,7 +106,7 @@ Salves, clarities, and bottle charges get canceled by creep damage, whether they
 
 ## The Feel of the Game
 ### Tempo is Really Important
-There's a lot to say about tempo, so I've given it its own page that can be read [here.](./tempo.txt) As a brief summary, games tend to go a bit longer and supports don't scale as well.
+There's a lot to say about tempo, so I've given it its own page that can be read [here.](./tempo.md) As a brief summary, games tend to go a bit longer and supports don't scale as well.
 
 ### Everybody's Squishy
 In 6.84, you cannot get away with the sort of stuff you can get away with in modern Dota. If you walk out of position and your opponents don't suck, you *will* die. Spells in general deal a ridiculous amount of damage in the early game (because they don't scale), and in the late game, carries become even scarier. This is one of the first things you will notice when playing classic Dota. Every hero can, and will, get nuked into oblivion, especially in the early game. Heroes simply do not have as much survivability as they do in modern Dota, which forces players to be a lot more careful with their positioning. Conversely, this does mean that your opponents will generally be easier to kill than they are in modern Dota.
